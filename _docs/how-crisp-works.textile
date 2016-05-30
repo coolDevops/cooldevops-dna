@@ -4,20 +4,11 @@ prev_section: what-is-crisp.html
 next_section: why-this-works.html
 ---
 
-h1. How Crisp works
+**Verbatim Crisp**
 
-Our second A3 is called "Crisp strategy" but it's really more about how we operate:
+h1. How coolDevOps works
 
-!../assets/CrispStrategyA3-sv.jpg(Crisp Strategy A3)!
-
-It hangs on the wall next to the "What is Crisp":what-is-crisp.html A3. Here's an "english translation":../assets/CrispStrategyA3-en.pdf of the pic. Summarized below:
-
-h2. What do we measure?
-
-We measure:
-
-* How happy we are (see "Happiness Index":happiness-index.html)
-* How happy our customers are. (actually, this point is partly aspirational. Currently our only systematic customer satisfaction metric is "Net Promoter Score":http://en.wikipedia.org/wiki/Net_Promoter for course participants).
+We follow the Crisp core values. For the moment we used their "Crisp Strategy A3":http://dna.crisp.se/assets/CrispStrategyA3-en.pdf as example to model our own.
 
 h2. How do we finance the home?
 

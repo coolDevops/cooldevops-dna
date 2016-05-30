@@ -1,8 +1,10 @@
----
+p---
 title: Economic Model
 prev_section: ownership-model.html
 next_section: decisions.html
 ---
+
+**Verbatim from the Crisp DNA**
 
 h1. Economic Model
 

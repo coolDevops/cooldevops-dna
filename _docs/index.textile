@@ -1,40 +1,34 @@
 ---
-title: Crisp DNA
+title: coolDEVOPS DNA
 next_section: what-is-crisp.html
 ---
 h1. What is this?
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Crisp works and why. 
+This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how cooldevops works and why. 
 
-"Crisp":https://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+We are not to first to implement this type of DNA. We owe big thanks to "Crisp":https://www.crisp.se for writing and open-source their DNA. It helped us a lot. Instead of writing from scratch we adapted theirs keeping the spirit of the DNA. But adapt it to our deviating details.
 
-* None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
-* We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
-* Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
-* Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
-* Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
-* Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-crisp.html), and work as much or as little as they want.
+"coolDEVOPS":https://www.cooldevops.com is a consulting company based in Brussels, Belgium. But we aren't a very typical consulting company. For example:
 
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to "open source":http://en.wikipedia.org/wiki/Open_source it.
+This is a fork of the  Crisp DNA. We deleted parts that were not relevant to us. We edited some parts to fit our DNA. But main of all we kept the spirit of the DNA.
 
-Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
-
-h2. Why open-source the Crisp DNA?
-
-* To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
-* Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
-* By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
-* Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
-
-h1. Contents
+As we're not as mature as Crisp we have deleted big chunks. When we grow we hope to develop our own strand of DNA.
 
 h2. Driving principles
 
 (these principles drive almost everything at Crisp)
 
-* "What is Crisp":what-is-crisp.html - the purpose of the company
-* "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
-* "Why this works":why-this-works.html - why this model has served us so well
+We're quite aligned with the principles of Crisp. So we use them as base to start.
+
+* Striving to find happiness in our job. Which compares to the same principles as crisp.
+* Consultants tend to be lone wolves
+* Work on projects alone or in team
+* Cut out the middle man
+* Have a network with competences
+* Learn from each other
+* Start new collaborations
+
+Hopefully when we grow this sections will mature. Our goal is to review this each time when someone new starts.
 
 h2. Core structure and practices
 
@@ -46,31 +40,18 @@ h2. Core structure and practices
 * "How we make decisions":decisions.html - how do decisions get made when there is no manager?
 * "Recruiting":recruiting.html - how do new people get in?
 * "Communication":communication.html - how do we collaborate, sync, and improve?
-* "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
-* "Dashboard":dashboard.html - how do we see the big picture?
-* "Office team":office-team.html - how do we handle admin and day-to-day operations?
-* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
-* "Sales":sales.html - how do we actually sell consultants?
-* "Crisp unconference":unconference.html - how our bi-annual unconference works
 
 h2. Supporting practices
 
 (relevant stuff, but not core to our model)
 
-* "Email conventions":email-conventions.html - how we get transparency without information overflow
-* "Hand signals":hand-signals.html - how do have discussions in larger groups?
-* "Industries that we avoid":industries-that-we-avoid.html - why we avoid certain industries
-* "Hack summit":hack-summit.html - how we geek out together
-* "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
-* "Conflict handling":conflict-handling.html - How do we make sure conflicts are constructive rather than destructive?
-* "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
-* "Building competence":building-competence.html - how we learn from each other and improve
-* "Courses and event production":courses-and-event-production.html - how do courses and events get produced?
-* "Brand building":brand-building.html - how do we build the brand, both Crisp and personal brands?
+* "Brand building":brand-building.html - how do we build the brand, both coolDevops and personal brands?
 
 h2. Meta
+
+We kept this verbatim. As for the moment we think forking from the orignal is better.
 
 * "How to clone the Crisp DNA":how-to-copy.html
 
